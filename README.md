@@ -53,7 +53,7 @@ morse_gui.spec: añade hiddenimports para que PyInstaller incluya QtMultimedia y
 test_decoder.py: 19 pruebas con audio sintético (ruido, velocidades, zumbido, cambio de velocidad…). Se ejecuta con python test_decoder.py y conviene lanzarlo si alguna vez tocas el decodificador.
 
 
-Instalación para la versión Windows
+INSTALACIÓN PARA APLICACIÓN EN WINDOWS
 
 Cambia poco respecto a la de Mac: no hay .app, ni info_plist, ni firma, y el resultado es una carpeta con un .exe. Hay dos archivos nuevos: morse_gui_windows.spec y construir_windows.bat. 
 Qué cambia respecto a Mac
