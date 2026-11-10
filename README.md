@@ -63,12 +63,13 @@ Qué cambia respecto a Mac
 •	Ventana: console=False evita la ventana negra de consola.
 Pasos
 1.	Instala Python 3 de 64 bits desde python.org, marcando «Add python.exe to PATH».
-2.	Copia al mismo directorio estos archivos (crea un carpeta “morse”):
-o	morse_gui.py, morse_receptor.py, morse_decoder.py y codmorse.py
-o	morse_gui_windows.spec y construir_windows.bat
-app.py y test_decoder.py no hacen falta.
+2.	Copia al mismo directorio estos archivos (crea un carpeta “morse”): 
+   morse_gui.py, morse_receptor.py, morse_decoder.py y codmorse.py
+   morse_gui_windows.spec y construir_windows.bat
+   app.py y test_decoder.py no hacen falta.
 3.	Haz doble clic en construir_windows.bat. Crea un entorno virtual, instala PyQt5 y pyinstaller y construye la aplicación.
 4.	Resultado: dist\morse_gui\morse_gui.exe.
+
 Si prefieres hacerlo a mano en cmd o PowerShell:
 python -m venv venv
 venv\Scripts\activate
