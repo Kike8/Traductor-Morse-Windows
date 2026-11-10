@@ -3,7 +3,7 @@
 # Traductor_Morse
 App que traduce texto a código morse y viceversa con capacidad de escucha y grabación
 
-MORSE_DECODER.PYel cerebro de la aplicación
+MORSE_DECODER.PY el cerebro de la aplicación
 
 __init__: calcula el tamaño del tramo de análisis (5 ms) y el filtro que elimina el zumbido y la componente continua.
 Ajustes : set_wpm (velocidad), set_adaptive (modo Auto) y set_sensitivity (nivel mínimo de detección). La propiedad wpm devuelve la velocidad en uso.
