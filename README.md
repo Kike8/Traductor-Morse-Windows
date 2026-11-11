@@ -91,6 +91,7 @@ Puedes probar el resultado en un equipo sin Python instalado, para confirmar que
 LOS FICHEROS DE INSTALACIÓN PARA NO EMPAQUETAR NI COMPILAR SON LOS FICHEROS .ZIP
 morse_gui.zip.001
 morse_gui.zip.002
+
 El resultado es un carpeta que contiene el archivo morse_gui.exe y una carpeta morse_gui que contiene todas las dll necesarias para funcionar.
 A Disfrutar!!
 
