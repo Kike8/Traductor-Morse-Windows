@@ -88,3 +88,9 @@ Qué esperar en otros equipos
 •	Si no arranca: pon console=True en el .spec y reconstruye. Verás el error en una ventana de consola. Si me lo pegas, lo resolvemos.
 Puedes probar el resultado en un equipo sin Python instalado, para confirmar que no depende de nada de tu máquina de desarrollo.
 
+LOS FICHEROS DE INSTALACIÓN PARA NO EMPAQUETAR NI COMPILAR SON LOS FICHEROS .ZIP
+morse_gui.zip.001
+morse_gui.zip.002
+El resultado es un carpeta que contiene el archivo morse_gui.exe y una carpeta morse_gui que contiene todas las dll necesarias para funcionar.
+A Disfrutar!!
+
